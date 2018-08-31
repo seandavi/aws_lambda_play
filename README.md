@@ -23,3 +23,9 @@ To update code, make changes, remake deploy.zip, and then run `update_function_c
 ## Serverless
 
 - https://www.terraform.io/docs/providers/aws/guides/serverless-with-aws-lambda-and-api-gateway.html
+
+# Fun
+
+## slack webhooks
+
+- https://api.slack.com/incoming-webhooks
