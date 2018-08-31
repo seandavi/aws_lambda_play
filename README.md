@@ -16,3 +16,10 @@ Finally, call the `call_function.sh` script.
 
 To update code, make changes, remake deploy.zip, and then run `update_function_code.sh`.
 
+# Terraform
+
+- https://www.davidbegin.com/the-most-minimal-aws-lambda-function-with-python-terraform/
+
+## Serverless
+
+- https://www.terraform.io/docs/providers/aws/guides/serverless-with-aws-lambda-and-api-gateway.html
